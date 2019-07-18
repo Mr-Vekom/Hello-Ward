@@ -1,2 +1,2 @@
-# Hello-Ward
+# Hello-word
 Начало познания 
